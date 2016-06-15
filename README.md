@@ -1,5 +1,4 @@
 # DMCStreamer
-
 [![CI Status](http://img.shields.io/travis/Yeah/DMCStreamer.svg?style=flat)](https://travis-ci.org/Yeah/DMCStreamer)
 [![Version](https://img.shields.io/cocoapods/v/DMCStreamer.svg?style=flat)](http://cocoapods.org/pods/DMCStreamer)
 [![License](https://img.shields.io/cocoapods/l/DMCStreamer.svg?style=flat)](http://cocoapods.org/pods/DMCStreamer)
@@ -27,3 +26,5 @@ Yeah, zyeah61@gmail.com
 ## License
 
 DMCStreamer is available under the MIT license. See the LICENSE file for more info.
+=======
+lightweight streamer player for iOS
