@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DMCStreamer_Example' do
+  pod 'DMCStreamer', :path => '../'
+
+  target 'DMCStreamer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
