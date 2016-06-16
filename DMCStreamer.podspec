@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DMCStreamer'
-  s.version          = '0.1.1'
+  s.version          = '0.1.0'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.summary          = 'Lightweight iOS stream player based on Core Audio.'
 
